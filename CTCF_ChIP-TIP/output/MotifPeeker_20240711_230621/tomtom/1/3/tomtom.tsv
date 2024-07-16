@@ -1,0 +1,9 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+m03_CCAGCCTGGGCRACAKAGY	MA2121.1	1	1.13258e-05	0.0265702	0.0531405	11	CCAGCCTGGGCAACAGAGC	CGCAGCCTGGGC	-
+m03_CCAGCCTGGGCRACAKAGY	MA2341.1	1	0.000230818	0.541499	0.541499	7	CCAGCCTGGGCAACAGAGC	CCCAGCCT	+
+m03_CCAGCCTGGGCRACAKAGY	MA0267.2	0	0.000933718	2.1905	1	5	CCAGCCTGGGCAACAGAGC	CCAGC	+
+m03_CCAGCCTGGGCRACAKAGY	MA1973.2	4	0.00142123	3.33421	1	10	CCAGCCTGGGCAACAGAGC	TGGGCTAGCCTGGG	-
+
+# Tomtom (Motif Comparison Tool): Version 5.5.5 compiled on Apr 15 2024 at 19:39:42
+# The format of this file is described at http://meme-suite.org//doc/tomtom-output-format.html.
+# tomtom -oc /Users/hdash/code/icl_project2/MotifPeeker_reports/CTCF_ChIP-TIP/output/MotifPeeker_20240711_230621/tomtom/1/3 -thresh 10 -min-overlap 5 -dist ed -evalue /var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/file17d2f535bbe0f.meme /Users/hdash/Library/Caches/org.R-project.R/R/BiocFileCache/128c14b151a34_JASPAR2024_CORE_non-redundant_pfms_meme.txt

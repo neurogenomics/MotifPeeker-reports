@@ -1,0 +1,11 @@
+motif_DB	motif_ID	motif_ALT_ID	seq_ID	FASTA_score	PWM_score	class
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_46503	14180	130.611	tp
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_10989_shuf_1	18300	122.386	fp
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_24730	7629	107.913	tp
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_24448_shuf_1	22512	88.0128	fp
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_42692	13095	86.3195	tp
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_956	287	83.2723	tp
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_16811	5110	76.6749	tp
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_2416	741	76.4287	tp
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_1377	419	75.9825	tp
+/var/folders/02/8xlc9n4x3gv96_rj588v5bqh0000gn/T//RtmpETxpCX/1	MA1102.3	CTCFL	tipseq_peak_24826	7652	75.6178	tp
