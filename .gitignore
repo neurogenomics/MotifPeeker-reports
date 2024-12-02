@@ -49,3 +49,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Input files
+*/input/*
+*.bam
+*.narrowPeak
+*.jaspar
+
+# Readme preview
+README.html

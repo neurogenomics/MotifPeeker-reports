@@ -1,0 +1,8 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+m03_ACCTAGAAAACA	MA2367.1	0	8.11544e-05	0.190388	0.380777	12	ACCTAGAAAACA	ACCTGGAGAACAT	+
+m03_ACCTAGAAAACA	MA0731.1	5	0.000809427	1.89892	1	12	ACCTAGAAAACA	TGAATTCCTAGAAAGCA	-
+m03_ACCTAGAAAACA	MA1724.2	-1	0.00177754	4.1701	1	9	ACCTAGAAAACA	CCTAGCAAC	+
+
+# Tomtom (Motif Comparison Tool): Version 5.5.5 compiled on Nov 30 2024 at 02:53:37
+# The format of this file is described at http://meme-suite.org//doc/tomtom-output-format.html.
+# tomtom -oc /home/hd423/code/public/MotifPeeker-reports/built_in_data/output/MotifPeeker_20241130_032318/tomtom/2/3 -thresh 10 -min-overlap 5 -dist ed -evalue /tmp/Rtmpgxq6kz/file285e03acc334c.meme /home/hd423/.cache/R/BiocFileCache/15fb841cdacbd_JASPAR2024_CORE_non-redundant_pfms_meme.txt

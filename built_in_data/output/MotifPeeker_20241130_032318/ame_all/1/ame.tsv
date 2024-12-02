@@ -1,0 +1,6 @@
+rank	motif_DB	motif_ID	motif_alt_ID	consensus	p-value	adj_p-value	E-value	tests	FASTA_max	pos	neg	PWM_min	TP	%TP	FP	%FP
+1	/tmp/Rtmpgxq6kz/1	MA1102.3	CTCFL	CAGGGGGC	3.78e-8	1.45e-5	1.45e-5	384	209	209	1045	1.38	85	40.67	230	22.01
+
+# AME (Analysis of Motif Enrichment): Version 5.5.5 compiled on Nov 30 2024 at 02:52:33
+# The format of this file is described at http://meme-suite.org//doc/ame-output-format.html.
+# ame --control --shuffle-- --oc /home/hd423/code/public/MotifPeeker-reports/built_in_data/output/MotifPeeker_20241130_032318/ame_all/1 --method fisher /tmp/Rtmpgxq6kz/file25d2c2d8a3a55.fa /tmp/Rtmpgxq6kz/1

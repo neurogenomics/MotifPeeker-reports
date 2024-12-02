@@ -1,0 +1,6 @@
+rank	motif_DB	motif_ID	motif_alt_ID	consensus	p-value	adj_p-value	E-value	tests	FASTA_max	pos	neg	PWM_min	TP	%TP	FP	%FP
+1	/tmp/Rtmp6bGvRV/1	MA1930.2	CTCF	CTGCAGTKCCNVCHNNYRGCCASYAGRKGGCRS	5.13e-2714	6.32e-2710	6.32e-2710	12323	28688	28688	28688	2.66	11312	39.43	1006	3.51
+
+# AME (Analysis of Motif Enrichment): Version 5.5.5 compiled on Nov 30 2024 at 02:52:33
+# The format of this file is described at http://meme-suite.org//doc/ame-output-format.html.
+# ame --control --shuffle-- --oc /home/hd423/code/public/MotifPeeker-reports/CTCF_ChIP-TIP/output/MotifPeeker_20241130_134203/ame_segregated/11 --method fisher /tmp/Rtmp6bGvRV/file4a08c469c9f13.fa /tmp/Rtmp6bGvRV/1
