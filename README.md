@@ -1,10 +1,12 @@
 
 # <code>MotifPeeker-reports</code>
 
-![](https://github.com/neurogenomics/MotifPeeker/raw/master/inst/hex/hex.png)
+<img
+src="https://github.com/neurogenomics/MotifPeeker/raw/master/inst/hex/hex.png"
+style="height: 300px !important;" />
 
-**Authors:** ***Hiranyamaya (Hiru) Dash, Thomas Roberts, Nathan
-Skene***  
+**Authors:** ***Hiranyamaya (Hiru) Dash, Thomas Roberts, Maria Weinert,
+Nathan Skene***  
 **Updated:** ***Dec-02-2024***
 
 [`MotifPeeker-reports`](https://github.com/neurogenomics/MotifPeeker-reports/)
